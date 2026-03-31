@@ -17,7 +17,7 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  site: "https://example.com/", // your site url
+  site: "https://micrev.github.io/", // your site url
   title: "MicRev's blog",
   slogan: "不要哭，不要笑，不要愤怒，要理解。",
   description: "眼极冷，故是非不管；心肠极热，故感慨万端。",
